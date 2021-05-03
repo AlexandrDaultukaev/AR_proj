@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="t_5000" size="10.000000 4.403893" />
+    <ImageTarget name="st_5000" size="10.000000 4.398709" />
+    <ImageTarget name="t_1000" size="10.000000 4.396761" />
+    <ImageTarget name="t_500" size="10.000000 4.297729" />
+    <ImageTarget name="st_1000" size="10.000000 4.407467" />
+    <ImageTarget name="st_500" size="10.000000 4.351145" />
+    <ImageTarget name="t_100" size="10.000000 4.285714" />
+    <ImageTarget name="st_100" size="10.000000 4.320883" />
+    <ImageTarget name="st_10m" size="10.000000 4.306667" />
+    <ImageTarget name="t_10" size="10.000000 4.306667" />
+  </Tracking>
+</QCARConfig>
