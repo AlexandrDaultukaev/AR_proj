@@ -18,8 +18,7 @@ profile
 DerivedData
 *.hmap
 *.ipa
-AR_Proj/Library/PackageCache/com.ptc.vuforia.engine@02b833e3fc/Vuforia/Plugins/iOS/
-AR_Proj/Library/ArtifactDB
+AR_Proj/Library/
 # Bundler
 .bundle
 
