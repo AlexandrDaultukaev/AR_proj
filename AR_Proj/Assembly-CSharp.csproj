@@ -219,7 +219,7 @@
         <HintPath>F:/UnityPersonal/2019.4.21f1/Editor/Data/Managed/UnityEditor.dll</HintPath>
     </Reference>
     <Reference Include="Vuforia.UnityExtensions">
-        <HintPath>F:/Github_rep/ar/AR_proj/AR_Proj/Library/PackageCache/com.ptc.vuforia.engine@02b833e3fc/Vuforia/Plugins/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
+        <HintPath>F:/Github_rep/arp/AR_proj/AR_Proj/Library/PackageCache/com.ptc.vuforia.engine@02b833e3fc/Vuforia/Plugins/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
         <HintPath>F:/UnityPersonal/2019.4.21f1/Editor/Data/PlaybackEngines/AppleTVSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -576,46 +576,46 @@
         <HintPath>F:/UnityPersonal/2019.4.21f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>F:/Github_rep/ar/AR_proj/AR_Proj/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>F:/Github_rep/arp/AR_proj/AR_Proj/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Toolchain.Win-x86_64-Linux-x86_64">
-        <HintPath>F:/Github_rep/ar/AR_proj/AR_Proj/Library/ScriptAssemblies/Unity.Toolchain.Win-x86_64-Linux-x86_64.dll</HintPath>
+        <HintPath>F:/Github_rep/arp/AR_proj/AR_Proj/Library/ScriptAssemblies/Unity.Toolchain.Win-x86_64-Linux-x86_64.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>F:/Github_rep/ar/AR_proj/AR_Proj/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>F:/Github_rep/arp/AR_proj/AR_Proj/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="VuforiaScripts">
-        <HintPath>F:/Github_rep/ar/AR_proj/AR_Proj/Library/ScriptAssemblies/VuforiaScripts.dll</HintPath>
+        <HintPath>F:/Github_rep/arp/AR_proj/AR_Proj/Library/ScriptAssemblies/VuforiaScripts.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>F:/Github_rep/ar/AR_proj/AR_Proj/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>F:/Github_rep/arp/AR_proj/AR_Proj/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>F:/Github_rep/ar/AR_proj/AR_Proj/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>F:/Github_rep/arp/AR_proj/AR_Proj/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>F:/Github_rep/ar/AR_proj/AR_Proj/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+        <HintPath>F:/Github_rep/arp/AR_proj/AR_Proj/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="VuforiaEditorScripts">
-        <HintPath>F:/Github_rep/ar/AR_proj/AR_Proj/Library/ScriptAssemblies/VuforiaEditorScripts.dll</HintPath>
+        <HintPath>F:/Github_rep/arp/AR_proj/AR_Proj/Library/ScriptAssemblies/VuforiaEditorScripts.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-        <HintPath>F:/Github_rep/ar/AR_proj/AR_Proj/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+        <HintPath>F:/Github_rep/arp/AR_proj/AR_Proj/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>F:/Github_rep/ar/AR_proj/AR_Proj/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+        <HintPath>F:/Github_rep/arp/AR_proj/AR_Proj/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Sysroot.Linux_x86_64">
-        <HintPath>F:/Github_rep/ar/AR_proj/AR_Proj/Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.dll</HintPath>
+        <HintPath>F:/Github_rep/arp/AR_proj/AR_Proj/Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.dll</HintPath>
     </Reference>
     <Reference Include="Unity.SysrootPackage.Editor">
-        <HintPath>F:/Github_rep/ar/AR_proj/AR_Proj/Library/ScriptAssemblies/Unity.SysrootPackage.Editor.dll</HintPath>
+        <HintPath>F:/Github_rep/arp/AR_proj/AR_Proj/Library/ScriptAssemblies/Unity.SysrootPackage.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>F:/Github_rep/ar/AR_proj/AR_Proj/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+        <HintPath>F:/Github_rep/arp/AR_proj/AR_Proj/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>F:/Github_rep/ar/AR_proj/AR_Proj/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>F:/Github_rep/arp/AR_proj/AR_Proj/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
